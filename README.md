@@ -3,4 +3,8 @@
 - 🌱 I’m currently exploring and exploiting some ML-based projects and LeetCode.
 
 Languages -
-* C++  * C  * Python  * HTML  * Verilog
+* C++  
+* C 
+* Python  
+* HTML  
+* Verilog
