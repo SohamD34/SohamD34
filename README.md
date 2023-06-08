@@ -6,5 +6,5 @@ Languages -
 * C++  
 * C 
 * Python  
-* HTML-CSS
+* HTML-CSS-JavaScript
 * Verilog
