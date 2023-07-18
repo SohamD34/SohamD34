@@ -1,4 +1,5 @@
-👋 Hi, You've reached Soham Deshmukh.
+#👋 Hi, You've reached Soham Deshmukh.
+
 I am a 3rd-year undergraduate student of Electrical Engineering at IIT Jodhpur
 I’m interested in machine learning and competitive programming.
 I’m currently exploring and exploiting some ML-based projects and honing my programming skills.
