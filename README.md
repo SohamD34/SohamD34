@@ -10,3 +10,5 @@ I work/have worked with
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SohamD34&show_icons=true)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=SohamD34)
