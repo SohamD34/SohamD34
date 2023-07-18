@@ -9,4 +9,4 @@ I work/have worked with
 - [![My Skills](https://skillicons.dev/icons?i=matlab,arduino,mysql)](https://skillicons.dev)
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SohamD34&show_icons=true)
