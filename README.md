@@ -17,7 +17,7 @@ I am a poet at heart and a not-so-professional photographer.
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-###Summary
+### Summary
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SohamD34)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SohamD34&show_icons=true)
