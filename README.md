@@ -2,7 +2,7 @@
 
 I am a 3rd-year undergraduate student of Electrical Engineering at IIT Jodhpur
 I’m interested in machine learning and competitive programming.
-I’m currently exploring and exploiting some ML-based projects and honing my programming skills.
+I’m currently exploring and exploiting ML, DL, CV and honing my programming skills.
 I am a poet at heart and a not-so-professional photographer.
 
 ### Skilled in
@@ -18,6 +18,6 @@ I am a poet at heart and a not-so-professional photographer.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Summary
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SohamD34)
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SohamD34&show_icons=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamD34)
