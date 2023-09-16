@@ -27,4 +27,5 @@ I am a poet at heart and a not-so-professional photographer.
 
 ### Summary
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SohamD34&show_icons=true)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamD34)
