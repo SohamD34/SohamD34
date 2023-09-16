@@ -27,5 +27,5 @@ I am a poet at heart and a not-so-professional photographer.
 
 ### Summary
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SohamD34&show_icons=true)
-
+![Dekhte hai](https://camo.githubusercontent.com/d4a0cf93303c04fb32a47352b4419019a3b3079434b3187752261f91ad4e8c7d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d58616e646572576174736f6e267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamD34)
