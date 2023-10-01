@@ -29,3 +29,5 @@ I am a poet at heart and a not-so-professional photographer.
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SohamD34&show_icons=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamD34)
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
