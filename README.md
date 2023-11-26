@@ -1,9 +1,9 @@
 # Hi👋 You've reached Soham Deshmukh.
 
-I am a 3rd-year undergraduate student of Electrical Engineering at IIT Jodhpur
-I’m interested in machine learning and competitive programming.
-I’m currently exploring and exploiting ML, DL, CV and honing my programming skills.
-I am a poet at heart and a not-so-professional photographer.
+- I am a 3rd-year undergraduate student of Electrical Engineering at IIT Jodhpur
+- I’m interested in machine learning and competitive programming.
+- I’m currently exploring and exploiting ML, DL, CV and honing my programming skills.
+- I am a poet at heart and a not-so-professional photographer.
 
 ### Skilled in
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
