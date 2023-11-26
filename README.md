@@ -26,7 +26,8 @@ I am a poet at heart and a not-so-professional photographer.
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Summary
-<p align="center"> ![](https://komarev.com/ghpvc/?username=SohamD34&color=blue) </p>
+<p align="center"> 
+  ![](https://komarev.com/ghpvc/?username=SohamD34&color=blue) </p>
 
 <p align="center"> ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SohamD34&show_icons=true) </p>
 
