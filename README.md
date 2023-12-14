@@ -32,6 +32,4 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamD34)
 
 ### You can connect with me at my socials.
-<div>
-  <img href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn">
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-deshmukh-iitj/)
