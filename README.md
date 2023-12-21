@@ -5,7 +5,7 @@
 - I’m currently exploring and exploiting ML, DL, CV and honing my programming skills.
 - I am a poet at heart and a not-so-professional photographer.
 
-## Teck Stack
+## _Teck Stack_
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![r](	https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
