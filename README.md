@@ -5,9 +5,7 @@
 - I’m currently exploring and exploiting ML, DL, CV and honing my programming skills.
 - I am a poet at heart and a not-so-professional photographer.
 
-<div style="text-align: center">
-  <h2><b>Tech stack</b></h2>
-</div>
+<h2 align="center">Tech stack</h2>
 
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![r](	https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
