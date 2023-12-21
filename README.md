@@ -6,7 +6,7 @@
 - I am a poet at heart and a not-so-professional photographer.
 
 <div style="text-align: center">
-  <b>Tech stack</b>
+  <h2><b>Tech stack</b></h2>
 </div>
 
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
