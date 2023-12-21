@@ -33,7 +33,8 @@ Hi 👋 You are number ![View count](https://komarev.com/ghpvc/?username=SohamD3
 <div align="center">
 <h2>My Stats So Far</h2>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SohamD34&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SohamD34&show_icons=true)    
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamD34)
 
 </div>
