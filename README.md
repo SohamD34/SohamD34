@@ -1,4 +1,5 @@
-# Hi 👋 You are number ![View count](https://komarev.com/ghpvc/?username=SohamD34&color=blue)  to have reached here. I am Soham Deshmukh.
+# Hi 👋 You are number ![View count](https://komarev.com/ghpvc/?username=SohamD34&color=blue)  to have reached here. 
+<h1 align="center" style="bold"> I am Soham Deshmukh. </h1>
 
 - I am a 3rd-year undergraduate student of Electrical Engineering at IIT Jodhpur
 - I’m interested in machine learning and competitive programming.
