@@ -6,10 +6,9 @@ Hi 👋 You are number ![View count](https://komarev.com/ghpvc/?username=SohamD3
 - I’m currently exploring and exploiting ML, DL, CV and honing my programming skills.
 - I am a poet at heart and a not-so-professional photographer.
 
-<h2 align="center">Tech stack</h2>
-
 <div align="center">
-
+<h2>Tech stack</h2>
+  
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![r](	https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -31,17 +30,21 @@ Hi 👋 You are number ![View count](https://komarev.com/ghpvc/?username=SohamD3
 
 </div>
 
-
-
-<h2 align="center">My Stats So Far</h2>
+<div align="center">
+<h2>My Stats So Far</h2>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SohamD34&show_icons=true)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamD34)
 
-<h2 align="center">You can connect with me at my socials.</h2>
+</div>
+
+
+<div align="center">
+<h2>You can connect with me at my socials.</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-deshmukh-iitj/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/so_uhhmm/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/915245456882274305)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Soham-Deshmukh-61)
+
+</div>
