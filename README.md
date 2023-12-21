@@ -8,6 +8,8 @@ Hi 👋 You are number ![View count](https://komarev.com/ghpvc/?username=SohamD3
 
 <h2 align="center">Tech stack</h2>
 
+<div align="center">
+
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![r](	https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,6 +28,10 @@ Hi 👋 You are number ![View count](https://komarev.com/ghpvc/?username=SohamD3
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
+
+
 
 <h2 align="center">My Stats So Far</h2>
 
