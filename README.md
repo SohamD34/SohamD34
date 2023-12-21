@@ -1,10 +1,9 @@
 Hi 👋 You are number ![View count](https://komarev.com/ghpvc/?username=SohamD34&color=blue)  to have reached here.
 <h1 align="center" style="bold"> I am Soham Deshmukh. </h1>
 
-- I am a 3rd-year undergraduate student of Electrical Engineering at IIT Jodhpur
-- I’m interested in machine learning and competitive programming.
-- I’m currently exploring and exploiting ML, DL, CV and honing my programming skills.
-- I am a poet at heart and a not-so-professional photographer.
+- I am a 3rd-year undergrad at Dept. of Electrical Engineering, IIT Jodhpur.
+- As much about ML, DL as I might.
+- Poet at heart and a not-so-professional photographer.
 
 <div align="center">
 <h2>Tech stack</h2>
