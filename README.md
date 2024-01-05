@@ -1,4 +1,4 @@
-Hi 👋 You are number ![View count](https://komarev.com/ghpvc/?username=SohamD34&color=blue)  to have reached here.
+<h2 align="center" style="bold"> Hey there! </h2>
 <h1 align="center" style="bold"> I am Soham Deshmukh. </h1>
 
 - I am a 3rd-year undergrad at Dept. of Electrical Engineering, IIT Jodhpur.
