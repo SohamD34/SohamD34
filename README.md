@@ -1,14 +1,14 @@
 <h2 align="center" style="bold"> Hey there! </h2>
 <h1 align="center" style="bold"> I am Soham Deshmukh. </h1>
 
-<img align="right" alt="Coding" width="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
 - I am a 3rd-year undergrad at Dept. of Electrical Engineering, IIT Jodhpur.
 - As much about ML, DL as I might.
 - Poet at heart and a not-so-professional photographer.
 
-<div align="center">
+<div align="left">
 <h2>Tech stack</h2>
   
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
