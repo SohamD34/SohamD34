@@ -40,7 +40,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SohamD34&show_icons=true)    
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamD34&layout=compact&exclude_repo=Robotframwork&hide=Robotframwork)](https://github.com/SohamD34/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamD34&layout=compact&exclude_repo=Robotframwork&hide=Robotframwork)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
