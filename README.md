@@ -43,7 +43,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamD34&layout=compact&exclude_repo=Robotframwork&hide=Robotframwork)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SohamD34)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SohamD34&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
