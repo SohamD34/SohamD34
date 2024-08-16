@@ -1,59 +1,75 @@
-<h2 align="center" style="bold"> Hey there! </h2>
-<h1 align="center" style="bold"> I am Soham Deshmukh. </h1>
+<!-- # shiny-broccoli
+Git Stats
+Just for the sake of contribution adding this comment :(
+### ⚙️ &nbsp;GitHub Analytics
 
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
+<p align="center">
+<a href="https://github.com/SohamD34">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SohamD34&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamD34&layout=compact&hide=html,jupyter%20notebook,vhdl"/>
+</a>
+</p>
+-->
 
-- I am a 3rd-year undergrad at Dept. of Electrical Engineering, IIT Jodhpur.
-- As much about ML, DL as I might.
-- Poet at heart and a not-so-professional photographer.
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi+the&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
 
-<div align="left">
-<h2>Tech stack</h2>
-  
-![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![r](	https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/assembly%20-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<!--
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=अहम् मेघः नमः&desc=(SohamD34)&fontSize=30&descAlignY=50&fontColor=fff&animation=twinkling&fontAlignY=35"/> -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Soham+Deshmukh;I+SPECIALIZE+IN===+BUILDING+STUFF;MY+EXPERTISE+>+2+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+=+=true+{+FOLLOW+%26%26+STAR;THNX+:%29+})](https://git.io/typing-svg)
+
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamD34&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="SohamD34" /></div>
+
+<!-- ./STAT -->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SohamD34&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="SohamD34 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamD34&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+<!-- ./STATS  -->
 
-[comment]: <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-[comment]: <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+![Contribution](https://activity-graph.herokuapp.com/graph?username=SohamD34&theme=react-dark&hide_border=true&area=true)
 
-<div align="center" style="width=50>
-<h2>My Stats So Far</h2>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SohamD34&show_icons=true)    
+### Code Languages:
+![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
+![CPP](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamD34&layout=compact&exclude_repo=Robotframwork&hide=Robotframwork)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SohamD34&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!---
 
-</div>
+--->
+
+### Frameworks Used:
+![Flask](https://img.shields.io/badge/flask-0D1117.svg?style=for-the-badge&logo=flask)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117.svg?style=for-the-badge&logo=Flutter)
+
+### Database Used:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117.svg?style=for-the-badge&logo=mongodb)
+
+
+### Video/Photo Editing and Animation:
+![Canva](https://img.shields.io/badge/Canva-0D1117.svg?style=for-the-badge&logo=Canva)
+
+### Tools:
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Microsoft-Office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
 
 <div align="center">
-<h2>You can connect with me at my socials.</h2>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SohamD34}/count.svg" /></p> 
+<br></div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-deshmukh-iitj/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/so_uhhmm/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/915245456882274305)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Soham-Deshmukh-61)
-
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
