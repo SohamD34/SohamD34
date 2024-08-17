@@ -9,7 +9,7 @@
 </div>
 <!-- ./STATS  -->
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=SohamD34&theme=react-dark&hide_border=true&area=true)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SohamD34&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### Code Languages:
