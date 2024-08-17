@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+==+Soham+Deshmukh;I+SPECIALIZE+IN+==+BUILDING+STUFF;MY+EXPERTISE+>+2+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+==+true+{+FOLLOW+%26%26+STAR;THNX+:%29+})](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+==+Soham+Deshmukh;I+SPECIALIZE+IN+==+BUILDING+STUFF;MY+EXPERTISE+>+2+++YEARS+IN+ML+&+DATA+SCIENCE;IF+(LIKE+MY+WORK)+==+true+{+FOLLOW+%26%26+STAR;THNX+:%29+})](https://git.io/typing-svg)
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamD34&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="SohamD34" /></div>
 
