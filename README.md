@@ -21,25 +21,25 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-<!---
-
---->
-
 ### Frameworks Used:
 ![Flask](https://img.shields.io/badge/flask-0D1117.svg?style=for-the-badge&logo=flask)
 ![Flutter](https://img.shields.io/badge/Flutter-0D1117.svg?style=for-the-badge&logo=Flutter)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117.svg?style=for-the-badge&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117.svg?style=for-the-badge&logo=PyTorch)
+
 
 ### Database Used:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117.svg?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117.svg?style=for-the-badge&logo=mongodb)
+![Chroma](https://img.shields.io/badge/ChromaDB-0D1117.svg?style=for-the-badge&logo=ChromaDB)
 
 
-### Video/Photo Editing and Animation:
+### Video/Photo Editing:
 ![Canva](https://img.shields.io/badge/Canva-0D1117.svg?style=for-the-badge&logo=Canva)
 
-### Tools:
 
+### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
