@@ -32,7 +32,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117.svg?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117.svg?style=for-the-badge&logo=mongodb)
-![Chroma](https://img.shields.io/badge/ChromaDB-0D1117.svg?style=for-the-badge&logo=ChromaDB)
+![Chroma](https://img.shields.io/badge/Chroma-0D1117.svg?style=for-the-badge&logo=ChromaDB)
 
 
 ### Video/Photo Editing:
