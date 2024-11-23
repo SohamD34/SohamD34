@@ -7,7 +7,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SohamD34&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="SohamD34 github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamD34&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-<!-- ./STATS  -->
+<!-- ./STATS GRAPH  -->
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SohamD34&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
