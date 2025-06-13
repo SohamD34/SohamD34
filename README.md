@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO;MY_NAME+=+"SOHAM+DESHMUKH";I_DABBLE_IN+=+"ML,+DL,+GENAI";MY_EXPERTISE+>+"2+YEARS+IN+ML,+DL,+DS";IF+(LIKE_MY_WORK+==+true)+{+FOLLOW+%26%26+STAR+};SEE+YA!!;)](https://git.io/typing-svg)
+# Soham Deshmukh
+
+Hi. I dabble in solutions based on Data Science and Machine Learning (including Deep Learning and GenAI). You can find my public works here.
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamD34&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="SohamD34" /></div>
 
@@ -9,7 +11,11 @@
 </div>
 <!-- ./STATS GRAPH  -->
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SohamD34&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+View my other works on public platforms -
+- ![Deep-ml](https://www.deep-ml.com/profile/0BWg7AeT64X8dkA9gvfupkhqeI93)
+- ![123ofai](https://products.123ofai.com/qnalab/sohamdeshmukh034)
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+You can find me at -
+- ![LinkedIn](https://www.linkedin.com/in/soham-deshmukh-iitj/)
+- ![Website](https://sohamd34.github.io/)
+- ![Instagram](https://www.instagram.com/so_uhhmm)
