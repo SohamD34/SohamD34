@@ -13,7 +13,6 @@ Hi. I dabble in solutions based on Data Science and Machine Learning (including 
 
 View my other works on public platforms -
 - ![Deep-ml](https://www.deep-ml.com/profile/0BWg7AeT64X8dkA9gvfupkhqeI93)
-- ![123ofai](https://products.123ofai.com/qnalab/sohamdeshmukh034)
 
 You can find me at -
 - ![LinkedIn](https://www.linkedin.com/in/soham-deshmukh-iitj/)
