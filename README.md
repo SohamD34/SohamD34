@@ -6,7 +6,7 @@ You can find my public works here.
 
 ## Notable Works
 You might want to take a look at the following projects.
-- [CogNight](https://www.github.com/SohamD34/CogNight)
+- [CogNight](https://www.github.com/AISocietyIITJ/CogNight)
 - [VeriGen](https://www.github.com/SohamD34/VeriGen)
 - [Speech Based Alzheimer's Detection](https://www.github.com/SohamD34/Speech-Based-Alzheimers-Detection)
 - [Baymax - RAG powered Medical Chatbot](https://www.github.com/SohamD34/Baymax)
