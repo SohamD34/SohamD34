@@ -9,6 +9,7 @@ You might want to take a look at the following projects.
 - CogNight
 - VeriGen
 - Speech Based Alzheimer's Detection
+- Baymax - RAG powered Medical Chatbot
 
 <!-- <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamD34&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="SohamD34" /></div> -->
 
