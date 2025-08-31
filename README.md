@@ -6,10 +6,10 @@ You can find my public works here.
 
 ## Notable Works
 You might want to take a look at the following projects.
-- ![CogNight](https://www.github.com/SohamD34/CogNight)
-- ![VeriGen](https://www.github.com/SohamD34/VeriGen)
-- ![Speech Based Alzheimer's Detection](https://www.github.com/SohamD34/Speech-Based-Alzheimers-Detection)
-- ![Baymax - RAG powered Medical Chatbot](https://www.github.com/SohamD34/Baymax)
+- [CogNight](https://www.github.com/SohamD34/CogNight)
+- [VeriGen](https://www.github.com/SohamD34/VeriGen)
+- [Speech Based Alzheimer's Detection](https://www.github.com/SohamD34/Speech-Based-Alzheimers-Detection)
+- [Baymax - RAG powered Medical Chatbot](https://www.github.com/SohamD34/Baymax)
 
 <!-- <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamD34&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="SohamD34" /></div> -->
 
