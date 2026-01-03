@@ -25,6 +25,10 @@ You might want to take a look at the following projects.
 ![GitHub Forks](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/SohamD34&query=$.forks&label=Forks&color=darkgreen)
 
 
+## Badges
+[![DeepML](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.a80541cb3dec320f96b79c8b57d74ab1.label&prefix=Rank%20&style=flat&label=%F0%9F%9A%80%20DeepML&color=613583&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)](https://www.deep-ml.com/profile/0BWg7AeT64X8dkA9gvfupkhqeI93)
+
+
 You can also find me on other platforms -
 
 [![DeepML](https://img.shields.io/badge/DeepML-4285F4?style=for-the-badge&logoColor=white)](https://your-link-here.com)
