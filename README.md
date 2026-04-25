@@ -13,11 +13,6 @@ You might want to take a look at the following projects.
 - [Baymax - RAG powered Medical Chatbot](https://www.github.com/SohamD34/Baymax)
 
 
- ## Some stats
-![GitHub Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/SohamD34&query=$.stars&label=Stars&color=blue)
-![GitHub Forks](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/SohamD34&query=$.forks&label=forks&color=darkgreen)
-
-
 You can also find me on other platforms -
 
 [![DeepML](https://img.shields.io/badge/DeepML-4285F4?style=for-the-badge&logoColor=white)](https://your-link-here.com)
