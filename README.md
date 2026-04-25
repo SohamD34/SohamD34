@@ -15,7 +15,7 @@ You might want to take a look at the following projects.
 
  ## Some stats
 ![GitHub Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/SohamD34&query=$.stars&label=Stars&color=blue)
-![GitHub Forks](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/SohamD34&query=$.forks&label=Forks&color=darkgreen)
+![GitHub Forks](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/SohamD34&query=$.forks&label=forks&color=darkgreen)
 
 
 You can also find me on other platforms -
