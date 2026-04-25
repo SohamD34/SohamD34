@@ -7,10 +7,10 @@ You can find my public works here.
 
 ## Notable Works
 You might want to take a look at the following projects.
+- [torch-datasets](https://www.github.com/Shubh-Goyal-07/torch-datasets)
 - [CogNight](https://www.github.com/AISocietyIITJ/CogNight)
 - [VeriGen](https://www.github.com/SohamD34/VeriGen)
 - [Speech Based Alzheimer's Detection](https://www.github.com/SohamD34/Speech-Based-Alzheimers-Detection)
-- [Baymax - RAG powered Medical Chatbot](https://www.github.com/SohamD34/Baymax)
 
 
 You can also find me on other platforms -
